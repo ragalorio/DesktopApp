@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\User\source\repos\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\User\source\repos\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.DesktopApp.resources
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
